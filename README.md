@@ -13,13 +13,13 @@ nucleus falls apart.
 
 ## Things to try
 
-- Open **Choose atoms…** in the top bar and pick **Uranium (U-238)** from the
-  presets, set the noise to **100** and press **Start**. Watch the event log
-  at the bottom as the nucleus decays.
+- Open **Choose atoms…** in the top bar, pick **Uranium (U-238)** from the
+  presets and close the palette, then set the noise to **100**. Watch the
+  event log at the bottom as the nucleus decays: uranium → thorium → radium…
 - Start with methane (CH4) or water (H2O) at a low noise, then raise it step
   by step and watch the bonds stretch.
 - Drag the 3D view on the right to turn the structure around.
-- **Pause** and **Reset** whenever you like.
+- It starts running on its own; **Pause** and **Reset** whenever you like.
 
 It works best on a computer, or on a tablet held sideways.
 
