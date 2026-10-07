@@ -1,0 +1,4 @@
+# GitHub language stats: the .js is generated glue and the page is a shell; the
+# real code is Rust compiled to WebAssembly, which GitHub does not count.
+*.js linguist-generated=true
+*.html linguist-detectable=false
