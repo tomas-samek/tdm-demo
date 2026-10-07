@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://tomas-samek.github.io/banners/dark/tdm-demo.svg">
+  <img alt="tdm-demo: A toy atom, running in your browser" src="https://tomas-samek.github.io/banners/light/tdm-demo.svg" width="100%">
+</picture>
+
 # TDM Engine — demo
 
 **Play it here: https://tomas-samek.github.io/tdm-demo/**
